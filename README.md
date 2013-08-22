@@ -1,0 +1,1 @@
+A PHP library that resized and saves images
